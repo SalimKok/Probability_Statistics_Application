@@ -1,0 +1,10 @@
+C:\Users\LENOVO\source\repos\BasitSeri\bin\Debug\BasitSeri.exe.config
+C:\Users\LENOVO\source\repos\BasitSeri\bin\Debug\BasitSeri.exe
+C:\Users\LENOVO\source\repos\BasitSeri\bin\Debug\BasitSeri.pdb
+C:\Users\LENOVO\source\repos\BasitSeri\obj\Debug\BasitSeri.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\BasitSeri\obj\Debug\BasitSeri.Form1.resources
+C:\Users\LENOVO\source\repos\BasitSeri\obj\Debug\BasitSeri.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\BasitSeri\obj\Debug\BasitSeri.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\BasitSeri\obj\Debug\BasitSeri.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\BasitSeri\obj\Debug\BasitSeri.exe
+C:\Users\LENOVO\source\repos\BasitSeri\obj\Debug\BasitSeri.pdb
